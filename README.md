@@ -1,2 +1,4 @@
-# senai-versoes-colaboracoes
+﻿# senai-versoes-colaboracoes
 repositório inicial
+
+fazendo uma alteração no readme
